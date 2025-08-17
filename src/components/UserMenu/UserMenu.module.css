@@ -1,0 +1,13 @@
+.wrap {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.btn {
+    padding: 6px 10px;
+}
+
+.name {
+    opacity: 0.9;
+}
